@@ -1,1 +1,2 @@
 wow i opened this with the terminal on VS code
+i commited this new sentence by typing "git commit" on vs code 
